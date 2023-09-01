@@ -32,3 +32,10 @@ This part of the analysis explores the relationship between subscribers and vide
 
 A Sunburst chart is employed to visualize the distribution of different YouTube channel types. This chart provides insights into the variety of content available on the platform.
 
+### Distribution of Earnings
+
+The final section of the analysis presents box plots to illustrate the distribution of earnings among YouTube channels. These plots give an overview of the earnings range within the dataset.
+
+## Conclusion
+
+This repository provides a comprehensive analysis of global YouTube statistics. It serves as a valuable resource for gaining insights into channel rankings, subscribers, video views, earnings, and more. The visualizations and findings presented here can be used as a foundation for further exploration and analysis of YouTube data.
